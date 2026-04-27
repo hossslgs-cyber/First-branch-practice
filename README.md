@@ -1,4 +1,4 @@
-project name: HerbTask Tracker 
+project name: #HerbTask Tracker 
 
 Problem: Developers lose track of small coding tasks across multiple repos.
 
